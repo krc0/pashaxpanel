@@ -1,0 +1,32 @@
+[
+    {
+     "ad": "Fatih",
+     "soyad": "Korucu",
+     "il": "Konya",
+     "ilce": "ilce 1",
+     "tc": "10544741512",
+     "tarih": "tarih 1",
+     "anne_ad": "anne_ad 1",
+     "baba_ad": "baba_ad 1",
+     "anne_tc": "anne_tc 1",
+     "baba_tc": "baba_tc 1",
+     "tc_gsm": "tc_gsm 1",
+     "adres": "adres 1",
+     "id": "1"
+    },
+    {
+     "ad": "ad 2",
+     "soyad": "soyad 2",
+     "il": "il 2",
+     "ilce": "ilce 2",
+     "tc": "tc 2",
+     "tarih": "tarih 2",
+     "anne_ad": "anne_ad 2",
+     "baba_ad": "baba_ad 2",
+     "anne_tc": "anne_tc 2",
+     "baba_tc": "baba_tc 2",
+     "tc_gsm": "tc_gsm 2",
+     "adres": "adres 2",
+     "id": "2"
+    }
+   ]
